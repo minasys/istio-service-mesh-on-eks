@@ -1,5 +1,5 @@
 
-# Istio Service Mesh Workshop:
+# Istio Service Mesh Workshop
 Welcome to the [Istio Service Mesh Workshop](https://minasys.github.io/istio-service-mesh-on-eks/)! This hands-on workshop is designed to give you a comprehensive understanding of Istio, the open-source service mesh that provides a way to control how microservices share data with one another. Below you will find an overview of the key topics we'll cover, aimed at equipping you with the skills needed to deploy, manage, and secure a microservices architecture on Kubernetes using Istio.
 
 Link to the workshop: https://minasys.github.io/istio-service-mesh-on-eks/
