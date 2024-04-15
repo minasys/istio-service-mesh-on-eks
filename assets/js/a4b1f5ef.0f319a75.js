@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[3653],{2530:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/istio-service-mesh-on-eks/blog/tags/hello","allTagsPath":"/istio-service-mesh-on-eks/blog/tags","count":2,"unlisted":false}')}}]);
