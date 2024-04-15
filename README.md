@@ -1,11 +1,12 @@
 
 # Istio Service Mesh Workshop
-Welcome to the Istio Service Mesh Workshop! This hands-on workshop is designed to give you a comprehensive understanding of Istio, the open-source service mesh that provides a way to control how microservices share data with one another. Below you will find an overview of the key topics we'll cover, aimed at equipping you with the skills needed to deploy, manage, and secure a microservices architecture on Kubernetes using Istio.
+Welcome to the [Istio Service Mesh Workshop](https://minasys.github.io/istio-service-mesh-on-eks/)! This hands-on workshop is designed to give you a comprehensive understanding of Istio, the open-source service mesh that provides a way to control how microservices share data with one another. Below you will find an overview of the key topics we'll cover, aimed at equipping you with the skills needed to deploy, manage, and secure a microservices architecture on Kubernetes using Istio.
+
+Link to the workshop: https://minasys.github.io/istio-service-mesh-on-eks/
 
 ## Workshop Overview
 In this workshop, we will delve into the following key aspects of Istio:
 * **How Istio Works:** Get to grips with the fundamentals of Istio, learning how it integrates with Kubernetes to manage the interaction between microservices.
-* **Istio Architecture:** We will dissect the internal components of Istio such as Envoy proxies, Pilot, Citadel, and Galley, and understand their role in the service mesh.
 * **Traffic Management:** Discover Istio's powerful traffic routing and control capabilities which allow for advanced deployment strategies and intelligent routing.
 * **Authentication and Authorization:** Learn how Istio enforces security policies and controls access between services, ensuring secure communication.
 * **SSL/TLS Certificates with ACM Private CA:** We'll show you how to leverage AWS Certificate Manager (ACM) Private Certificate Authority (CA) to manage SSL/TLS certificates in Istio.
@@ -21,7 +22,7 @@ By the end of this workshop, you'll be able to:
 * Secure your service mesh and manage encryption with ACM Private CA.
 * Set up observability tools to monitor, trace, and visualize service metrics and flows.
 
-## Who Should Attend
+## Who Should Go Through It
 This workshop is intended for:
 * Developers and system architects who want to understand Istio and implement service mesh in their Kubernetes environments.
 * DevOps professionals who are looking to enhance the reliability and security of their microservices architecture.
